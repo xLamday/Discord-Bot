@@ -1,2 +1,4 @@
 git rm --cached .env
 .env
+
+__pycache__
